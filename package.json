@@ -14,6 +14,18 @@
   "files": [
     "dist"
   ],
+  "description": "This is a simple utility package to access GitHub Graphql",
+  "author": "Amit Gurbani",
+  "license": "MIT",
+  "homepage": "https://github.com/AmitGurbani/github-graphql-fetch",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AmitGurbani/github-graphql-fetch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AmitGurbani/github-graphql-fetch/issues"
+  },
+  "keywords": ["github", "graphql", "fetch"],
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
